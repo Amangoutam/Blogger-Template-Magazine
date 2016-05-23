@@ -1,0 +1,19 @@
+Step 1 - Enable Mobile Template
+You must Enable responsive feature before installing template for your site. This step will help your site be allowed to use "Template Designer" tool of Blogger.
+
+Step 2 - Get Template Code
+Extract your download package from ThemeForest, then open file "Blogger-template-code.xml" with any text editor and copy all code from this file.
+
+Final Step - Install Template
+First, log into Blogger and click on a blog name that you want to install template.
+When you are in the blog dashboard, click on Template.
+After finish, you can choose one of below ways to install template.
+
+Way 1: Copy and Paste Template Code
+With this way, you must have the code of template. You can get template code from Blogger Can Do or open a template file in text editor and copy all template code.
+We recommend you use this way because it will make your site widgets similar with the template demo. After you have template code, click into Edit HTML.When Template Editor showed, select all code and paste the new code then click Save Template.
+
+Way 2: Upload Template File
+With this way, you must have template file in .xml extension. In Template tab, click Backup / Restore.
+
+Template -Design : www.datarack.blogspot.com
